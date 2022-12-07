@@ -84,3 +84,19 @@
 .style-switcher .color-5{
     background:#ff00aa ;
 }
+
+@media (max-width: 632px){
+
+    .style-switcher{
+        top: 5px;
+    }
+
+    .style-switcher .s-icon{
+        height: 35px;
+        width: 35px;
+    }
+    
+    .style-switcher .s-icon i{
+        line-height: 35px;
+    }
+}
