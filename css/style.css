@@ -882,20 +882,15 @@ h3.my-profession {
 }
 @media (max-width:632px){
 
-	.home-img {
-		margin-top: 10px;
-		margin-bottom: 10px;
-	}
-
     .home-img::after{
-        right: 60px;
+        right: 0px;
         bottom: -15px;
         border-bottom: 8px solid var(--skin-color);
         border-right: 8px solid var(--skin-color);
 
     }
     .home-img::before{
-        left: 60px;
+        left: 0px;
         top: -20px;
         border-top: 8px solid var(--skin-color);
         border-left: 8px solid var(--skin-color);
