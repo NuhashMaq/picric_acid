@@ -890,6 +890,10 @@ h3.my-profession {
         left: 30px;
         top: -40px;
     }
+    
+        .home .home-img img {
+        height: 300px;
+    }
 
 
     .contact .contact-info-items{
