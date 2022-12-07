@@ -883,14 +883,14 @@ h3.my-profession {
 @media (max-width:632px){
 
     .home-img::after{
-        right: 0px;
+        right: 20px;
         bottom: -15px;
         border-bottom: 8px solid var(--skin-color);
         border-right: 8px solid var(--skin-color);
 
     }
     .home-img::before{
-        left: 0px;
+        left: 20px;
         top: -20px;
         border-top: 8px solid var(--skin-color);
         border-left: 8px solid var(--skin-color);
