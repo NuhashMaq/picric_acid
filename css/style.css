@@ -822,7 +822,7 @@ h3.my-profession {
     }
 
     .section{
-        left: 0;
+        padding-left: 0;
     }
     
     .section.open{
@@ -837,6 +837,14 @@ h3.my-profession {
 }
 
 @media (max-width:930px){
+
+
+	.section {
+
+    	padding-left: 0;
+
+    }
+
     .about .about-content .personal-info{
         flex: 0 0 100%;
         max-width: 100%;
@@ -875,12 +883,25 @@ h3.my-profession {
 
 @media (max-width:675px){
 
+	.section {
+
+    	padding-left: 0;
+
+    }
+
     .service .service-item{
         flex: 0 0 100%;
         max-width: 100%;
     }
 }
 @media (max-width:632px){
+
+
+  	.section {
+
+    	padding-left: 0;
+
+    }
 
     .home-img::after{
         right: 0px;
