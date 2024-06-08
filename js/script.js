@@ -1,6 +1,6 @@
 var typed = new Typed(".typing",{
     strings:["", "Frontend Developer ;", "CP Pupil ;", "Problem Solver ;", "Graphics Designer; "],
-    typeSpeed: 70,
+    typeSpeed: 60,
     BackSpeed: 60,
     loop:true
 })
